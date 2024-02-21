@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+/* .Task{
+    border: 1px solid black;
+
+} */
+.taskName{
+    color: rgb(5, 118, 163);
+    margin:5vw;
+}
+.importance{
+    margin: 2vw;
+    border: 1px solid black;
+    size: 40px;
+    background-color: black;
+}
+.toggle{
+    margin: 2vw;
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+}
+.delete{
+    margin: 2vw;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+
+}

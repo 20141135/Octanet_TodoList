@@ -1,0 +1,17 @@
+body{
+    border:2px solid black;
+    width: 50%;
+    margin: auto;
+}
+button{
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+    margin :3vw;
+}
+input{
+    border: 1px solid black;
+}
+.progress{
+    color: rgb(5, 118, 163);
+}
